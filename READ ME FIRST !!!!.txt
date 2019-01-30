@@ -1,0 +1,11 @@
+For Admin Panel
+Open Your browser put inside browser “http://localhost/bbdms/admin”
+
+USERNAME : admin
+
+PASSWORD : Test@12345
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "bbdms.sql" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
